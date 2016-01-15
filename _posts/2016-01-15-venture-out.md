@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-15T02:01:45.161Z'
-dateModified: '2016-01-15T02:01:44.872Z'
+datePublished: '2016-01-15T19:28:54.381Z'
+dateModified: '2016-01-15T19:28:48.524Z'
 title: Venture Out
 author: []
 sourcePath: _posts/2016-01-15-venture-out.md
@@ -22,6 +22,6 @@ url: venture-out/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67bd0a1c-dfd0-43a9-97b6-34c93885e13e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6321a2c75f96ed2719344102c5757ce3f239379.jpg)
 
 Life starts at the end of the road.
