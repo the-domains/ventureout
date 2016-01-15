@@ -1,14 +1,29 @@
+name: VentureOut
+favicon: null
 layout_spectrum: 0.8924731
+typography_spectrum: 0.2903226
+title: Venture Out
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9455135
-  brandStrength: 0.7078639
-  lightness: 0.6415771
-  rhythmicContrast: 0.9102597
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-typography_spectrum: 0.2903226
-name: VentureOut
+  brandStrength: 0.7078639
+  lightness: 0.6415771
+  saturation: 0.9455135
+  rhythmicContrast: 0.9102597
+purpose: []
