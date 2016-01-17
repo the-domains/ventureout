@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-15T19:28:54.679Z'
-dateModified: '2016-01-15T19:28:54.381Z'
+datePublished: '2016-01-17T17:06:19.071Z'
+dateModified: '2016-01-17T17:06:16.068Z'
 title: Venture Out
 author: []
 sourcePath: _posts/2016-01-15-venture-out.md
